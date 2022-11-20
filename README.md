@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **TalksPro & Reciclapp**
 
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Tailwind**
 
 - 👨‍💻 All of my projects are available at [My portfolio](https://jdmosqueraprogramador.github.io/portfolio/)
 
